@@ -2,6 +2,6 @@
 	// Database Parameters
 	$strHostName = "localhost";
 	$strUserName = "juggerjo_mila1";
-	$strPassword = "Iran1Iran";
+	$strPassword = "password";
 	$strDbName = "juggerjo_milalaserclinic";
 ?>
